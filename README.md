@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100009282807887)](https://www.facebook.com/profile.php?id=100009282807887)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100009282807887)](https://www.facebook.com/profile.php?id=100009282807887)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7458dntjr@gmail.com)](mailto:7458dntjr@gmail.com) 
 <br/>
 -------------------
@@ -10,7 +10,7 @@
 
 
 <!--
-**munyoung03/munyoung03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**WooSeok-03/WooSeok-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
